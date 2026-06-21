@@ -1,3 +1,4 @@
+import Lean4Example.ErdosDistance
 open Nat (add_assoc add_comm)
 
 theorem hello_world (a b c : Nat)
