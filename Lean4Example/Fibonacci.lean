@@ -17,3 +17,4 @@ theorem fib_even_zero : sum_odd_fib 0 = fib (2 * 0) := by
 --   まずは帰納法を使わない証明方法で解けるかを試す】
 theorem sum_odd_fib_eq_fib_even (n : Nat) : sum_odd_fib n = fib (2 * n) := by
   sorry
+-- verification run marker 1788880045
