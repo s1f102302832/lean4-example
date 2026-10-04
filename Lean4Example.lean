@@ -1,6 +1,7 @@
 import Lean4Example.ErdosDistance
 import Lean4Example.Fibonacci
 import Lean4Example.Simple
+import Lean4Example.SumOdd
 
 open Nat (add_assoc add_comm)
 
